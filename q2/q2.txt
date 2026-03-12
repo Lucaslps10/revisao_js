@@ -1,0 +1,7 @@
+Ambiente de Execução e Objetivo 
+
+Navegador (Frontend): O JS é usado para tornar as páginas web interativas. 
+O ambiente fornece acesso ao Document Object Model (DOM) para manipular HTML/CSS.
+
+Node.js (Backend): O JS é executado no servidor ou máquina local, permitindo criar 
+servidores web, manipular arquivos e realizar operações de backend.
